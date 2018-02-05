@@ -1,0 +1,96 @@
+# Site settings
+title: "CMS.S62"
+full_name: "CMS.S62 – Digital Humanities II"
+name: "Digital Humanities II"
+email: fendt@mit.edu
+description: > # this means to ignore newlines until "baseurl:"
+  This is the collaborative site for CMS.S62, a Digital
+  Humanities course at MIT taught by Kurt Fendt. Students will
+  use this space to keep track of course resources and example
+  projects, as well as to post updates as their own design
+  projects take shape.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://cmss62.github.io" # the base hostname & protocol for your site
+twitter_username: MIThyperstudio
+github_username:  cmsS62
+permalink: none
+
+# Build settings
+markdown: kramdown
+
+prose:
+  rooturl: '_posts'
+  siteurl: "http://cmss62.github.io/"
+  relativeLinks: 'http://cmss62.github.io/links.jsonp'
+  media: 'assets'
+  metadata:
+    _posts:
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+      - name: "author"
+        field:
+          element: "text"
+          label: "Author"
+          placeholder: "your name, or your team's name"
+      - name: "category"
+        field:
+          element: "select"
+          label: "Category"
+          options:
+            - name: "Project Update"
+              value: "updates"
+            - name: "Reading Commentary"
+              value: "commentary"
+            - name: "Bio"
+              value: "people"
+            - name: "Example Project"
+              value: "ext-projects"
+            - name: "Data Set"
+              value: "datasets"
+            - name: "About"
+              value: "course"
+      - name: "tags"
+        field:
+          element: "multiselect"
+          label: "Readings"
+          placeholder: "Choose Reading(s)"
+          options:
+            - name: "Digital_Humanities"
+              value: "Digital_Humanities"
+            - name: "The Database"
+              value: "The Database"
+            - name: "Museum"
+              value: "Museum"
+            - name: "Augmented Space"
+              value: "Augmented Space"
+            - name: "Sonification"
+              value: "Sonification"
+            - name: "Participatory Culture"
+              value: "Participatory Culture"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
