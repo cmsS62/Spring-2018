@@ -20,6 +20,7 @@
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
+        {% comment %}
         <span role="presentation" class="page-link dropdown">
 					<a class="page-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
 						Past Years <span class="caret"></span>
@@ -30,6 +31,7 @@
             <li><a href="http://cms633.github.io/Spring-2017/">Spring 2017</a></li>
 					</ul>
 				</span>
+        {% endcomment %}
       </div>
     </nav>
 
