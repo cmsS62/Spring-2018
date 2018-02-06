@@ -1,6 +1,6 @@
-This is the collaborative Jekyll site for CMS.633, a digital humanities course at MIT. If you are the site administrator and wish to prepare for an upcoming run of the course by archiving the existing site and setting up a new copy, see the following instructions.
+This is the collaborative Jekyll site for CMS.S62, a digital humanities course at MIT. If you are the site administrator and wish to prepare for an upcoming run of the course by archiving the existing site and setting up a new copy, see the following instructions.
 
-### Archiving the existing site
+### Archiving the existing site (written for CMS.633)
 1. If you don’t yet have a local copy of the cms633.github.io repository, run `git clone https://github.com/cms633/cms633.github.io.git` in the command line
 1. In the command line, run `cd cms633.github.io` (swap in the name of the directory containing your local copy of the repo, if different). Run `git pull` to bring it up to date.
 1. Make a copy of your local cms633.github.io directory. Name it cms633-new.
