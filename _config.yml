@@ -1,13 +1,13 @@
 # Site settings
 title: "CMS.S62"
-full_name: "CMS.S62 – Digital Humanities II"
+full_name: "CMS.S62/S98 – Digital Humanities II"
 name: "Digital Humanities II"
 email: fendt@mit.edu
 description: > # this means to ignore newlines until "baseurl:"
-  This is the collaborative site for CMS.S62, a Digital
+  This is the collaborative site for CMS.S62/S98, a Digital
   Humanities course at MIT taught by Kurt Fendt. Students will
   use this space to keep track of course resources and example
-  projects, as well as to post updates as their own design
+  projects, as well as to post reading commentaries and design updates as their own design
   projects take shape.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cmss62.github.io" # the base hostname & protocol for your site
