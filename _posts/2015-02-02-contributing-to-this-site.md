@@ -3,14 +3,14 @@ layout: post
 published: true
 title: Contributing to This Site
 category: course
-author: Andy
+author: Andy & Kurt
 ---
 
 This site is collaboratively managed using [GitHub](https://github.com), [Jekyll](http://jekyllrb.com/), and [Prose](http://prose.io/). To get started adding material to this site, just follow these steps:
 
-- First, [email Kurt](mailto:fendt@mit.edu) with your GitHub username (set up a free [GitHub](https://github.com) account if you don't already have one). You'll get an email from GitHub telling you you've been added as a collaborator to the [cms633.github.io repository](https://github.com/cms633/cms633.github.io).
+- First, [email Kurt](mailto:fendt@mit.edu) with your GitHub username (set up a free [GitHub](https://github.com) account if you don't already have one). You'll get an email from GitHub telling you you've been added as a collaborator to the [cmsS62.github.io repository](https://github.com/cmsS62/cmsS62.github.io).
 
-- To add something to the site once you've become a collaborator, go to [prose.io](http://prose.io/) and click "Authorize on GitHub." Click on the cms633.github.io project and you'll see the full list of posts on the site. Hit "New File" and you'll enter the text editor.
+- To add something to the site once you've become a collaborator, go to [prose.io](http://prose.io/) and click "Authorize on GitHub." Click on the cmsS62.github.io project and you'll see the full list of posts on the site. Hit "New File" and you'll enter the text editor.
 
 - In Prose, you write in a format called Markdown—this is a lot more painless than coding your text in full HTML, but you can include any HMTL you want in it. You can refer to the [Markdown syntax page](http://daringfireball.net/projects/markdown/syntax), click the help button in the text editor, or just open up some other posts (like this one!) in Prose to get a feel for it.
 
