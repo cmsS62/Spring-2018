@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: datasets
+category: ext-projects
 title: Evaluating Archives - Week 1 Activity
 author: Kurt + Rachel
 ---
