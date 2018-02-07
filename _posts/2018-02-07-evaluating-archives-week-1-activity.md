@@ -15,6 +15,8 @@ Select one archive from the list below, and evaluate it according to the followi
 
 - What can you easily accomplish?
 
+- What is remarkable about this archive?
+
 - What is frustrating?
 
 
