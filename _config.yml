@@ -45,7 +45,7 @@ prose:
               value: "commentary"
             - name: "Project Updates"
               value: "updates"
-            - name: "Example Project"
+            - name: "Projects & Archives"
               value: "ext-projects"
             - name: "Data & Tools"
               value: "datasets"
