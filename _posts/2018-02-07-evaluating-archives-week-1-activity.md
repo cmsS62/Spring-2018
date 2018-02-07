@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: datasets
 title: Evaluating Archives - Week 1 Activity
 author: Kurt + Rachel
-tags: ''
 ---
 ## Evaluating Archives
 
@@ -17,6 +16,8 @@ Select one archive from the list below, and evaluate it according to the followi
 - What can you easily accomplish?
 
 - What is frustrating?
+
+
 
 **Archives:**
 
@@ -39,3 +40,15 @@ Select one archive from the list below, and evaluate it according to the followi
 [French Revolution Digital Archive](https://frda.stanford.edu/en)
 
 [Museum of Modern Art Exhibitions Archive](https://www.moma.org/calendar/exhibitions/history)
+
+[Archives of the International Tracing Service (ITS)](https://www.its-arolsen.org/en/archives/)
+
+[Berlinische Galerie](http://sammlung-online.berlinischegalerie.de/eMuseumPlus?service=StartPage&lang=en)
+
+[Center for Advanced Visual Studies - Special Collection](http://act.mit.edu/cavs/)
+
+[Images d'art - ARTWORKS FROM FRENCH MUSEUMS](http://art.rmngp.fr/en)
+
+[Piktorialismus Portal](http://piktorialismus.smb.museum/index.php?lang=en)
+
+[EMA - Erich Mendelsohn Archive Correspondence of Erich and Luise Mendelsohn 1910-1953](http://ema.smb.museum/en/home)
