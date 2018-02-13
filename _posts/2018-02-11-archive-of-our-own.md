@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: ext-projects
 title: Archive of Our Own
 author: Jessica Tang
-tags: ''
 ---
 *Review of Archives* 
 
