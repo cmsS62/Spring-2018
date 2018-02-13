@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: ext-projects
+category: commentary
 title: Archive of Our Own
 author: Jessica Tang
 ---
