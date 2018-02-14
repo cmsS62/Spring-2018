@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Schembri - Week 1 Assignment
+author: Frankie Schembri
+tags:
+  - Digital Memory
 ---
 ## Review of Archive: Authorial London
 
@@ -31,6 +34,3 @@ It's a lot of fun to play around.
 ## Ernst Reading
 
 This reading brings up many foundational ideas in the realm of digital archives and media archeology. Ernst discusses how the infrastructure of digital spaces has transformed the way archives are created, maintained, and used with respect to notions of an analog archive. Most notably, he brings up the idea of computer memory and computer storage with respect to information management, and how the time it takes to retrieve information has been so shortened by this technology, archives are now almost always in motion. Digitalization has collapsed the binary between stored information and information in motion/trasmission. The web ecosystem has allowed for a flattening of the temporal dimension of information and for its spatial dimension - it can be anywhere at once, and accessed/modified at any time.
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
