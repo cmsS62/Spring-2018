@@ -5,6 +5,7 @@ category: commentary
 title: >-
   National Library of Korea Digital Collections / Comments on the Ernst Reading 
   Seung Hun Lee (Sam) Assignment 1
+author: Seung Hun Lee (Sam)
 ---
 ### National Library of Korea Digital Collections
 
