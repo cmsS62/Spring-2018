@@ -3,8 +3,8 @@ layout: post
 published: false
 category: commentary
 title: >-
-  Seung Hun (Sam) Lee Assignment 1- National Library of Korea Digital
-  Collections / Comments on the Ernst Reading
+  National Library of Korea Digital Collections / Comments on the Ernst Reading 
+  Seung Hun Lee (Sam) Assignment 1
 ---
 ## Review of Archives/ Reading comments
 
