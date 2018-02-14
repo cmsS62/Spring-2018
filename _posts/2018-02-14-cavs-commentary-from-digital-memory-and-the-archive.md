@@ -3,6 +3,9 @@ layout: post
 published: false
 category: commentary
 title: CAVS / Commentary from Digital Memory and the Archive
+author: Margaret Flemings
+tags:
+  - Digital Memory
 ---
 ### Center for Advanced Visual Studies - Special Collection
 [Center for Advanced Visual Studies - Special Collection](http://act.mit.edu/cavs/)
