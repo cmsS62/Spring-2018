@@ -3,6 +3,7 @@ layout: post
 published: false
 category: commentary
 title: Junger- Archive MOMA
+author: Ashley Junger
 ---
 ## Junger- Archive
 
