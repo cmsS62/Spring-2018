@@ -1,10 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: >-
   Jacob Higgins Assignment 1: Images d'Art and Using Wikipedia to Think about
   Ernst
+author: Jacob Higgins
 ---
 ## Review of Archives
 
