@@ -1,10 +1,10 @@
 ---
 layout: post
-published: true
+published: false
 category: commentary
 title: Junger Week 1- Archive
 ---
-## A New Post
+
 ## Junger Week 1- Archive
 
 I looked at the Museum of Modern Art archive. The home page has changing images advertising their exhibits, so the viewer is immediately encouraged to consider visiting the museum. The design of the website itself is very minimal- just black text on a white background; the hot pink "buy tickets" option stands out- once again emphasising visiting the museum itself. Of the five options at the top of the page, two deal with visiting the museum "plan your visit" and "exhibitions and events". The third "Art and artists" gives you access to the online archive/collection of the work. A search is prominent, inviting the user to explore. Although, there aren't any suggested topics or searches, so the viewer is left to navigate the 200,000 works of art by themselves. The viewer can explore the visual art collection and a list of artists. There is also an audio option, where select works have recordings explaining the piece paired with the art.
