@@ -4,7 +4,6 @@ published: false
 category: commentary
 title: CAVS / Commentary from Digital Memory and the Archive
 ---
-## CAVS / Commentary from Digital Memory and the Archive
 ### Center for Advanced Visual Studies - Special Collection
 [Center for Advanced Visual Studies - Special Collection](http://act.mit.edu/cavs/)
 
