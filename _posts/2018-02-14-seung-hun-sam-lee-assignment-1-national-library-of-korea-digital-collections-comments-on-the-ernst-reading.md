@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: >-
   National Library of Korea Digital Collections / Comments on the Ernst Reading 
