@@ -6,7 +6,7 @@ title: >-
   National Library of Korea Digital Collections / Comments on the Ernst Reading 
   Seung Hun Lee (Sam) Assignment 1
 ---
-## Review of Archives/ Reading comments
+### National Library of Korea Digital Collections
 
 [National Library of Korea](http://www.nl.go.kr/english/)'s  [Digital Collections](http://nlcollection.nl.go.kr/english/index.html) is an archive fitting the exact meaning of the archive: a collection of historical documents or records providing information about a place, institution, or group of people (Definition from Google). The digital collection is a set of around 20 collections of various Korean historical topics such as rare books, different wars in Korean peninsula, and history of textbooks. These collections are highly curated, each collections with extensive descriptions on each document as well as the collection as a whole.
 
