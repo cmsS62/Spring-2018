@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: CAVS / Commentary from Digital Memory and the Archive
+title: CAVS / Commentary from Digital Memory and the Archive by Margaret Flemings
 author: Margaret Flemings
 tags:
   - Digital Memory
@@ -23,4 +23,3 @@ The archive made a good impression on me - I love UX design, but I think it requ
 When we talk about archiving the past, it is easy to see photographs as logically the best connection we have. What we have to be wary about is assuming that the photographs can be read as truth, somehow separated from human interpretation. According to Barthes, "the photograph is, in fact, an inscription of the real, in physical (a unique moment of light) and chemical (emulsion as storage) terms" (48). While that is true, and the photograph does have a real place in the past, photographs can also have very biased representations of the world. It does not quite "… [liberate] the past from historical discourse" (48). In fact, photography may give more insight into what was considered significant, important, or powerful in the past based on what was captured, how it was captured, and if it was conserved. In this way historical discourse is embedded in photography. Mis-en-scene is a word used in cinema studies to describe what is put in front of the camera, usually referring to costumes, scenery, props, lighting and other delicate additions to change perception of a moment.  Although mis-en-scene can be obvious elements in films, like a striking color worn by a single character, the idea of changing reality gives us a chance to think about how photographs are "edited" before they are taken.  For example, some questions we must ask ourselves if we think of images of historical landmarks are, who is in the picture? Would they be there normally or were they staged in the image? What time of day was it taken? Is the area empty because they photographed at night? Does the angle of the camera hide something from the picture?
 
 Generally I want to use these questions to bring attention to the nature of items in an archive. While it would be nice to trust everything can be assigned the same amount of trust, including photographs, it is unlikely that is the case. How we present objects from an archive can be used to show what we know about the objects and if they align with other historical documents.
-
