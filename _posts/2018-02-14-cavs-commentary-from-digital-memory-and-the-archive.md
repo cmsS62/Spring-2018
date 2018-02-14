@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: CAVS / Commentary from Digital Memory and the Archive
 author: Margaret Flemings
