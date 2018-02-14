@@ -1,8 +1,8 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
-title: ''
+title: Junger- Ernst
 ---
 ## Junger- Ernst
 
