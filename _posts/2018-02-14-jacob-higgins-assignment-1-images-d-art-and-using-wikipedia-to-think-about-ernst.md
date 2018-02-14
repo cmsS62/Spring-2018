@@ -4,9 +4,7 @@ published: false
 category: commentary
 title: >-
   Jacob Higgins Assignment 1: Images d'Art and Using Wikipedia to Think about
-  Ernst 
-author: ''
-tags: ''
+  Ernst
 ---
 ## Review of Archives
 
@@ -36,6 +34,4 @@ In context of Ernst, this felt like a flattening of Wikipedia's achived content.
 
 Collaboratively authored encyclopedia pages like those found on Wikipedia and other wikis across the internet combine the metaphorical "desire to achieve historical transparency in historiography" with the "technologically true" portrayal of reality through photographs that appear on the page. Here, even if the photograph were truly separated from "aesthetic traditions of visual mimesis, iconographic semantics, and iconic Hermeneutics" (which, I would argue, it isn't and can't), the photograph serves as one piece of evidence in the construction of a decentralized view of reality. On this digital platform, many authors are able to contribute to the rhetorical and textual construction of the topic in a way that reinforces the "reality effect" through decentralized verification and improvement of all content. 
 
-I wish that, like the Images d'Art archive or Instagram/Facebook/etc., there were a way to save, collect, and organize articles for personal use. Currently all I've been able to see is a watchlist and a list of personal contributions, which signals to me that these features were built for those in the Wikipedia community who primarily work to make contributions to articles. 
-
-
+I wish that, like the Images d'Art archive or Instagram/Facebook/etc., there were a way to save, collect, and organize articles for personal use. Currently all I've been able to see is a watchlist and a list of personal contributions, which signals to me that these features were built for those in the Wikipedia community who primarily work to make contributions to articles.
