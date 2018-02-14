@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: ext-projects
-title: 'Gossamer Network: The U.S. Post and State Power in the American West'
+title: 'Data, Missing Data, Inconsistent Data & Visualizations'
 author: Kurt Fendt
 tags: ''
 ---
