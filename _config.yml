@@ -41,7 +41,7 @@ prose:
           element: "select"
           label: "Category"
           options:
-            - name: "Commentary"
+            - name: "Reading Commentary"
               value: "commentary"
             - name: "Project Updates"
               value: "updates"
