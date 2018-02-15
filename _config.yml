@@ -51,6 +51,8 @@ prose:
               value: "datasets"
             - name: "Bio"
               value: "people"
+            - name: "Resources"
+              value: "resources"
             - name: "About"
               value: "course"
       - name: "tags"
