@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: datasets
-title: Shakespeare API
+title: Folger Shakespeare API
 author: Kurt Fendt
 ---
 ## API to Shakespeare's Works
