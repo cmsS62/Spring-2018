@@ -1,8 +1,9 @@
 ---
 layout: post
 published: false
-category: commentary
+category: ext-projects
 title: Active Archives
+author: Kurt Fendt
 ---
 ## Rethinking Digital Archives
 
