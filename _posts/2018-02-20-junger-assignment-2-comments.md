@@ -4,8 +4,6 @@ published: true
 category: commentary
 title: Junger_Assignment 2 Comments
 author: Ashley Junger
-tags:
-  - Digital_Humanities
 ---
 ##Junger Assignment 2 Comments
 
