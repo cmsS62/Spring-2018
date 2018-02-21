@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 category: commentary
 title: Schembri Week 2 Assignment
 author: Frankie Schembri
@@ -22,6 +22,3 @@ Many stories can be drawn from this data, combined with other data sets. First, 
 This project tackles several issues related to using incomplete data sets in creating interactive archival representations. It acknowledges within the archive itself (unmapped vs. mapped percentage feature) that a portion of its data is missing – yet fails to fully elaborate or clarify which data are missing. The percentage metric is only useful in trying to visualize the magnitude of missing data. It does little to elaborate on the nature of this missing data. The name change missing data, however, is handled more skillfully by using the “heat map” overlay feature of post offices in the same location.
 
 This project also shows how privileging different metrics of the data set affect the capacity of the audience to build stories with the data. On the map, the spatial and time-based metrics are privileged, as the post offices’ locations and dates of operation are the most visible metrics, and the ones from which the design encourages the audience to draw narratives. If this data was not mapped on top of a rendering of the U.S. west, would we immediately correlate it with other infrastructure or geographic features? What if it was mapped on a blank canvas? Would we draw other correlations or tell different stories about the expansion and contraction of an information network over time? 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
