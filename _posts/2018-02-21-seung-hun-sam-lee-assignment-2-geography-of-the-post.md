@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Seung Hun (Sam) Lee Assignment 2- Geography of the Post
+author: Seung Hun (Sam) Lee
 ---
 
 
