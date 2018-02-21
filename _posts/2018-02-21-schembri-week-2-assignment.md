@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Schembri Week 2 Assignment
 author: Frankie Schembri
