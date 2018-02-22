@@ -6,7 +6,7 @@ title: Berlinische Galerie — Online Collection
 author: Lucas Vogel (@vogelino)
 ---
 
-![Online collection of the Berlinische Galerie]({{site.baseurl}}/assets/berlinische-galerie.png)![berlinische-galerie.png]({{site.baseurl}}/assets/berlinische-galerie.png)
+![Online collection of the Berlinische Galerie]({{site.baseurl}}/assets/berlinische-galerie.png)
 
 
 ## About the Berlinische Galerie
