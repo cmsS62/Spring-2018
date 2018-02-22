@@ -6,6 +6,9 @@ title: Berlinische Galerie — Online Collection
 author: Lucas Vogel (@vogelino)
 ---
 
+![Online collection of the Berlinische Galerie]({{site.baseurl}}/assets/berlinische-galerie.png)![berlinische-galerie.png]({{site.baseurl}}/assets/berlinische-galerie.png)
+
+
 ## About the Berlinische Galerie
 The [Berlinische Galerie](https://www.berlinischegalerie.de/en/home/) is one of Berlin’s youngest and most diverse museum of modern art, photography and architecture. Founded in 1975, it collects, researches and presents art made in Berlin. It exhibits painting, graphics, sculpture, installations, multimedia art, photography, architecture and artist's estates from 1870 to the present day.
 
