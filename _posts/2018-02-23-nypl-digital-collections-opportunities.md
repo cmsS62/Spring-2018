@@ -1,10 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: NYPL Digital Collections & Opportunities
 author: Sarah Mautsch
-tags: ''
 ---
 This comment consists of two parts: The first part summarizes my observations on the Digital Collection of the NYPL, although I do not want to limit myself to this collection in a further approach. In the second part I will talk about the opportunities that I find particularly interesting in connection with archives.
 
