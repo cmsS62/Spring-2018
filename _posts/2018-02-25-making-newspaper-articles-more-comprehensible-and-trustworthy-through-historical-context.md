@@ -7,13 +7,13 @@ title: >-
   historical context
 author: Joshua Pacheco
 ---
-### Historical Newspaper Archives
+**Historical Newspaper Archives**
 
 The Berlin State Library is willing to share their 1.5 million historic newspaper pages of searchable full text with us. Parts of them can currently be accessed at the [The European Library](http://www.theeuropeanlibrary.org). Its audience is limited to professional researchers, as the digitalised newspapers date from 1872-1949 and are only searchable by specific keywords. The »discover« section on the platform only adds filters (geography, time, language) to the search bar and thereby excludes content based discovery. 
 
 A similar American platform is [Chronicling America](https://chroniclingamerica.loc.gov).
 
-### Contemporary Newspaper Archives
+**Contemporary Newspaper Archives**
 
 Comparing the method above with digital newspaper archives of current German and American newspapers shows that this seems to be the general approach. Articles of most current major newspapers are available in text format reaching back to at least the mid 1990s. Still they are only accessible through a specific search request and even though »related articles« are suggested while reading latest news on the homepage, inside the archive they are never referenced. 
 
