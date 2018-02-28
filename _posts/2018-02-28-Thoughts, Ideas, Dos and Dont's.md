@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Thoughts, Ideas, Dos and Dont's
 author: Patrick Schneider, Donatus Wolf
