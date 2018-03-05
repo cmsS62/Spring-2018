@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: ext-projects
-title: Videos of Visit with the CAVS Collection at MIT
+title: Videos of Visit with the CAVS Special Collection at MIT
 author: Kurt Fendt
 ---
 ## MIT's CAVS Collection
