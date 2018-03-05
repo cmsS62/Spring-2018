@@ -12,6 +12,7 @@ The first video partially captures the talk that he gave to the Digital Humaniti
 [Jeremy Grubman on the CAVS Collection](http://web.mit.edu/course/other/cms.s62/www/video/JGrubmanCAVS-Collection.mp4)
 
 In the second video, Jeremy takes us to the physical CAVS archives and talks about some of the materials that have been digitized.
+[CAVS Physical Archive](http://web.mit.edu/course/other/cms.s62/www/video/CAVSPhysicalArchive.mp4)
 
 
 
