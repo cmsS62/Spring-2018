@@ -27,6 +27,10 @@ agreement" and "interrogative sentences" are topics?). While the analyzer does p
 
 2. [Voyant Results](http://voyant-tools.org/?corpus=ebe19a0c4cc7bb7d4171d8271167a734)
 
+While this conversation is about Helena declaring her love for the Countess' son - it does include some mediation on familial love/romantic love, and the nature of motherhood, as the Countess has served as Helena's surrogate mother for all of her life. 
+
+
+
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/e5aa0d7f4234df91f896bc556c72fdfe)
 
 
