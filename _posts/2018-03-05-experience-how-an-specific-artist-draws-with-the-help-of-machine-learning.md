@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: Experience how an specific artist draws with the help of Machine Learning
 author: '@sarahmautsch and @tim-peters'
 ---
