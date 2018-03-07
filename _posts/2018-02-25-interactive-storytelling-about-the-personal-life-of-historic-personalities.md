@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: 'Interactive storytelling about the personal life of historic personalities '
 author: Dustin Kummer (@miduku) & Lucas Vogel (@vogelino)
 ---
