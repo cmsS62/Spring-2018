@@ -8,7 +8,9 @@ title: Schembri - Week 4 Text Analysis Activity
 
 In last week's activity with the Folger API, I worked with Ashley on developing a sort of Bechdel Test for Shakespeare. In order to pass the Bechdel Test, a work must have at least two female characters, they must speak to each other, and the conversation must be about something other than a man. Last week, I pulled all of the female dialogue from Shakespeare's play with the API and analyzed it in order to figure out what percentage of the play's total dialogue was spoken by women. 
 
-This week, I focused my attention on analyzing what female characters say in female-to-female dialogue, by plugging the text from a few scenes into the Voyant text analyzer and Jstor's Topicgraph prototype. 
+This week, I focused my attention on analyzing what female characters say in female-to-female dialogue, by plugging the text from a few scenes into the Voyant text analyzer and Jstor's Topicgraph prototype. I first picked four scenes in which females have substantial conversations with each other, which I defined as more than 20 lines of continuous back and forth dialogue without interruption from male characters. The four scenes I chose are:
+
+1. As You Like It; Act 3, Scene 2 - Conversation between Cecilia and Rosalind
 
 
 
