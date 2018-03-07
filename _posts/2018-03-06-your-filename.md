@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Schembri - Week 4 Text Analysis Activity
+author: Frankie Schembri
+tags:
+  - Reading Machines
 ---
 ## Schembri - Continuing to develop a Bechdel Test for Shakespeare's plays
 
