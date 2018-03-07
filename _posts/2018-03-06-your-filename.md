@@ -27,8 +27,7 @@ agreement" and "interrogative sentences" are topics?). While the analyzer does p
 
 2. [Voyant Results](http://voyant-tools.org/?corpus=ebe19a0c4cc7bb7d4171d8271167a734)
 
+[TopicGraph](https://labs.jstor.org/topicgraph/monograph/e5aa0d7f4234df91f896bc556c72fdfe)
 
 
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
