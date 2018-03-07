@@ -13,11 +13,11 @@ In last week's activity with the Folger API, I worked with Ashley on developing 
 
 This week, I focused my attention on analyzing what female characters say in female-to-female dialogue, by plugging the text from a few scenes into the Voyant text analyzer and Jstor's Topicgraph prototype. I first picked three scenes in which females have substantial conversations with each other, which I defined as more than 20 lines of continuous back and forth dialogue without interruption from male characters. The three scenes I chose are:
 
-**1. As You Like It; Act 3, Scene 2 - Conversation between Cecilia and Rosalind
-**2. All's Well That Ends Well; Act 1, Scene 3 - Conversation between Countess and Helena**
-**3. Othello; Act 4, Scene 3 - Conversation between Emilia and Desdemona**
+1. As You Like It; Act 3, Scene 2 - Conversation between Cecilia and Rosalind
+2. All's Well That Ends Well; Act 1, Scene 3 - Conversation between Countess and Helena
+3. Othello; Act 4, Scene 3 - Conversation between Emilia and Desdemona
 
-Results:
+## Results:
 
 1. [Voyant Results](http://voyant-tools.org/?corpus=b1509e1d4bd3ee86edf57d0babec8f34)
 
@@ -44,5 +44,8 @@ This scene is still about a man - Desdemona's husband Othello - but operates on 
 
 This TopicGraph gets a little messy, I think partly because it's so short and there isn't too much for the AI to crunch - but it again picks up on some mostly obsolete words and tries to make topics out of them. For example, it sees the words "Heaven," "think," and "false" as apparent evidence of the topic of Swedenborgianism - a particular flavor of Christianity that was inspired by the writings of Emanuel Swedenborg. Some the religious topics are appropriate for this text - Desdemona feels stuck in a kind of limbo or purgatory, between Heaven and Hell, so these topics make sense. Interesting, the AI did nothing with "willow," which was featured so heavily in the Voyant graphs. 
 
-**In summary:** I think Shakespeare poses a particular challenge to natural language processors like Voyant and TopicGraph, because disambiguating the words in Shakespeare is essentially impossible due to his frequent use of wordplay, double meaning, puns, inventing words, and symbolism. I think that the fact that all of the female-to-female dialogue texts are so short also posed a challenge, as there were fewer total words from which to draw association and conclusions, so the AI got stuck on a few particular words. The analysis also made obvious the changing nature of the English language, even in its structural forms, and how the AI wanted to group Shakespeare in with Biblical texts, either because it had been trained on mostly modern texts and the Bible was the only thing it could associate certain pronoun usage with, or because it had been trained to see "thou" in a very specific context and grouped Shakespeare in with similar texts. Regardless, I think neither of these analyzer were fully able to capture the meaning of the text since it is so challenging to disambiguate. I think you would need to train an AI just on Shakespeare in order for all of the nuances to be captured. 
+
+## In summary:
+
+I think Shakespeare poses a particular challenge to natural language processors like Voyant and TopicGraph, because disambiguating the words in Shakespeare is essentially impossible due to his frequent use of wordplay, double meaning, puns, inventing words, and symbolism. I think that the fact that all of the female-to-female dialogue texts are so short also posed a challenge, as there were fewer total words from which to draw association and conclusions, so the AI got stuck on a few particular words. The analysis also made obvious the changing nature of the English language, even in its structural forms, and how the AI wanted to group Shakespeare in with Biblical texts, either because it had been trained on mostly modern texts and the Bible was the only thing it could associate certain pronoun usage with, or because it had been trained to see "thou" in a very specific context and grouped Shakespeare in with similar texts. Regardless, I think neither of these analyzer were fully able to capture the meaning of the text since it is so challenging to disambiguate. I think you would need to train an AI just on Shakespeare in order for all of the nuances to be captured. 
 
