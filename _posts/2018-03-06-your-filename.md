@@ -35,7 +35,7 @@ Again, the TopicGraph provides a broader thematic analysis of the text, and does
 
 3. [Voyant Results](http://voyant-tools.org/?corpus=f240d6108989c8a890f484e0461f5490)
 
-
+This scene is still about a man - Desdemona's husband Othello - but operates on a couple levels of symbolic abstraction. For this analysis, male-associated words don't even make it into the top 5. "Willow" comes up 15 times in this section, which might seem strange, but digging a little deeper, you see that the phrase "willow, willow, willow" pops up four seperate times, which accounts for 12 of the instances. Digging into the word links graph, willow doesn't seem that integral to the other most used words. "World," which pops up 8 times, is far more integral to the overall structure of the dialogue. In this passage Desdemona ruminates with her maidservant Emilia on the nature of marital fidelity and true love, all implicitly related to her feelings about her husband Othello, but through an anecdote about her mother's maid who used to sing a song about willows. I guess this also brings up a messier question with the Bechdel Test - if a conversation is explicitly about willows and the nature of marital fidelity, does it still pass the test if it is implicitly about one specific man? Are we counting words or meaning? 
 
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/7dcd58e583a6b611764fcdbb55cf5c3c)
 
