@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: Berlinische Galerie — Online Collection
 author: Lucas Vogel (@vogelino)
 ---
