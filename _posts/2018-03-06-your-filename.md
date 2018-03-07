@@ -39,5 +39,5 @@ This scene is still about a man - Desdemona's husband Othello - but operates on 
 
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/7dcd58e583a6b611764fcdbb55cf5c3c)
 
-
+This TopicGraph gets a little messy, I think partly because it's so short and there isn't too much for the AI to crunch - but it again picks up on some mostly obsolete words and tries to make topics out of them. 
 
