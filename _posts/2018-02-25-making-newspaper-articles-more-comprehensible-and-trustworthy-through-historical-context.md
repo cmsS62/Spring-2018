@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: >-
   Making newspaper articles more comprehensible and trustworthy through
   historical context
