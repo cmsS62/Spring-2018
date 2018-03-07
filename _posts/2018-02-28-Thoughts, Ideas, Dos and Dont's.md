@@ -1,9 +1,9 @@
 ---
 layout: post
 published: true
-category: commentary
-title: Thoughts, Ideas, Dos and Dont's
-author: Patrick Schneider, Donatus Wolf
+category: updates
+title: 'Thoughts, Ideas, Dos and Dont''s'
+author: 'Patrick Schneider, Donatus Wolf'
 ---
 Hello everyone! This is not (yet) a proper project pitch, but we (Donatus and Patrick) have been collecting some general examples and ideas for this project. We already presented this during last weeks course and now translated it so we can share here too. You can find it [here](https://paper.dropbox.com/doc/active-archives-research-izD2Ew5D54aBCJCq1UoZe)
 
