@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: MoMa Exhibiton History Dataset
 author: Ioannis Sarakasidis
 ---
@@ -26,5 +26,3 @@ Here are a few interesting site-facts I took out of the about-page of the exhibi
 — The underlying data for exhibitions from 1929 to 1989 is available on GitHub, alongside data sets of artworks and artists in the collection.
 
 — This resource was conceived as a living archive rather than a one-off publication. Some exhibition pages have the full range of available materials, while others are limited to core information. The history will be continually updated, with new and upcoming shows appearing as soon as they are added to our calendar.
-
-
