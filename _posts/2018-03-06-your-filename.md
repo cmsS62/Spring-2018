@@ -27,9 +27,7 @@ agreement" and "interrogative sentences" are topics?). While the analyzer does p
 
 2. [Voyant Results](http://voyant-tools.org/?corpus=ebe19a0c4cc7bb7d4171d8271167a734)
 
-While this conversation is about Helena declaring her love for the Countess' son - it does include some mediation on familial love/romantic love, and the nature of motherhood, as the Countess has served as Helena's surrogate mother for all of her life. 
-
-
+While this conversation is about Helena declaring her love for the Countess' son - it does include some mediation on familial love/romantic love, and the nature of motherhood, as the Countess has served as Helena's surrogate mother for all of her life. Even in the discussion of motherhood, however, you can see the conversation biasing towards the mother-son relationship, as opposed to the mother-daughter relationship, since "son" is said far more frequently than "daughter." But "mother" is the central linking word is many of the most frequently said sentence in this passage, so it stands that at least a female is near the center of this dialogue, albeit only because she links the two people who will ultimately become romantically involved.
 
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/e5aa0d7f4234df91f896bc556c72fdfe)
 
