@@ -43,7 +43,7 @@ prose:
           options:
             - name: "Reading Commentary"
               value: "commentary"
-            - name: "Project Updates"
+            - name: "Project Ideas & Updates"
               value: "updates"
             - name: "Projects & Archives"
               value: "ext-projects"
