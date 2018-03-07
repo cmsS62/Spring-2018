@@ -31,5 +31,7 @@ While this conversation is about Helena declaring her love for the Countess' son
 
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/e5aa0d7f4234df91f896bc556c72fdfe)
 
-Again, the TopicGraph provides a broader thematic analysis of the text, and does come up accurately with some of the themes implied throughout the text, even those that aren't mentioned specifically, which is pretty neat. 
+Again, the TopicGraph provides a broader thematic analysis of the text, and does come up accurately with some of the themes in the text, even those that aren't mentioned explicitly, but more implied, which is pretty neat. "Passion," "Truth," and "Affection" are all topics into which lines of dialogue could be accurately classified. Again, the AI seems to hone in on some topics erroneously, especially related mining, since it picks up on the word "mine" which is used this case as a posessive - i.e."mine heart" - and not as a noun. The program also brings out some themes are not apparent in the voyant analysis - like Helena's apprenticeship in medicine under her father, which she plans to use to get closer to the Countess' son. 
+
+
 
