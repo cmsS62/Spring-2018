@@ -8,6 +8,7 @@ tags:
   - Digital_Humanities
 ---
 ## Junger Assignment 4
+
 Volant online analysis tool:
 
 This tool is very easy to use. You just copy and past your text, and it gives you five different analyses based off of the words. The first box has three options, one is a word cloud and another is a chart linking words. Both of those I didn’t find helpful at all- word clouds in general seem useless to me. But it did have a function where you can see the most used words, and how many times they’re used. Then you can select those terms and see how frequently they’re used in each segment of the play (although, I’m not quite sure what a segment is- I guess just tenths of the play). I chose to analyze the text from “A Midsummers Night’s Dream.” The most frequently used word in that text was love, and it had a huge spike in the 6th segment of the play, while the other top ten words appear to be down. There’s also a box where it displays the full text and tells you the frequency of each word. A box where it gives a summary of the text and frequency of phrases used. The last box tells you what is said before and after a word (context), bubble lines, and correlations. The last box is my favorite- I’m not sure how I’d use the correlation function, as analyzing word use that way would take a long time for high frequency words, but I think it’s neat. This gives me a pretty basic understanding of the text the most frequent words are love, shall, come, sweet, night. Love has a huge spike in the middle of the play, with the other top words staying pretty consistent. 
