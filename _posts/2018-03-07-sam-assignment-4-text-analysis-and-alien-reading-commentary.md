@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Sam- Assignment 4 Text Analysis and Alien Reading Commentary
+author: Seung Hun (Sam) Lee
 ---
 ## Folger API Text Analysis
 
