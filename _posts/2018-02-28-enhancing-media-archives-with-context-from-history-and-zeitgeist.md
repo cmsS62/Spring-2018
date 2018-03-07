@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: Enhancing media archives with context from history and zeitgeist
 author: Caspar Kirsch
 ---
