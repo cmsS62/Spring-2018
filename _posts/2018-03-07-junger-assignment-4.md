@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: Junger Assignment 4
 author: Ashley junger
+tags:
+  - Digital_Humanities
 ---
 ## Junger Assignment 4
 Volant online analysis tool:
