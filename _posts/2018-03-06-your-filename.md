@@ -22,7 +22,7 @@ From the "trends" graph, it's pretty obvious that this conversation is about a m
 
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/2cb2170fac900dd654377d95a3778b6a)
     
-The Topicgraph provides a more thematic analysis - clustering some terms into broader categories (sometimes erroneously) as well as offering some structural comments (I guess "linguistic
+The TopicGraph provides a more thematic analysis - clustering some terms into broader categories (sometimes erroneously) as well as offering some structural comments (I guess "linguistic
 agreement" and "interrogative sentences" are topics?). While the analyzer does pick up on ideas related to the passage's content - reciting verses, poetry, the organs of speaking and listening, Heaven, modesty - it misinterprets a few words, particularly "thou," which it uses as evidence for topics of "The Ten Commandments," "Quintessence," and Jewish ethics." Perhaps the AI has seen a pattern of usage for this pronoun in certain kinds of texts, and is incorrectly assuming this passage contains the themes discussed in those texts. 
 
 2. [Voyant Results](http://voyant-tools.org/?corpus=ebe19a0c4cc7bb7d4171d8271167a734)
@@ -31,5 +31,5 @@ While this conversation is about Helena declaring her love for the Countess' son
 
 [TopicGraph](https://labs.jstor.org/topicgraph/monograph/e5aa0d7f4234df91f896bc556c72fdfe)
 
-
+Again, the TopicGraph provides a broader thematic analysis of the text, and does come up accurately with some of the themes implied throughout the text, even those that aren't mentioned specifically, which is pretty neat. 
 
