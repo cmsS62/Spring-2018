@@ -19,9 +19,11 @@ Results:
 
 1. [Voyant Results](http://voyant-tools.org/?corpus=b1509e1d4bd3ee86edf57d0babec8f34)
 
-From the "trends" graph, it's pretty obvious that this conversation is about a man, as its trend line is stable throughout the whole passage, while other frequently occurring words spiking up for a brief period of time as they are used repeatedly in a phrase or expression - i.e. wonderful, prithee. 
+From the "trends" graph, it's pretty obvious that this conversation is about a man, as its trend line is stable throughout the whole passage, while other frequently occurring words spiking up for a brief period of time as they are used repeatedly in a phrase or expression - i.e. wonderful, prithee. In the "links" tab, it's also clear that the word man is central in the clauses in which it is used, whereas "wonderful" and "prithee" are less so, and could be left out without much altering the meaning of the line.
 
-	[TopicGraph](https://labs.jstor.org/topicgraph/monograph/2cb2170fac900dd654377d95a3778b6a)
+[TopicGraph](https://labs.jstor.org/topicgraph/monograph/2cb2170fac900dd654377d95a3778b6a)
+    
+
     
 
     
