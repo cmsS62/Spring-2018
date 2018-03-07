@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: Harvard Museums - Digital Art Collection
 author: Fabian Dinklage
 ---
