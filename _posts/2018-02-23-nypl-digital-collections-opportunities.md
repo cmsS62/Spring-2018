@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-category: commentary
+category: updates
 title: NYPL Digital Collections & Opportunities
 author: Sarah Mautsch
 ---
@@ -29,5 +29,3 @@ The goal of a library, however, is not only to provide information, but also to 
 **Make Unique Collections:** When do we ever stop collecting? I’ve stoped making pictures during sightseeing and gallery visits, because everything is online anyway (most of the time in better quality). Therefore to depict things that haven’t been depicted before is the way to go. (Of course over time things change and it might be worth taking pictures of them again and every photographer really takes his or her personal point of view into a picture.) The idea of making our photo collection more unique is already done here: [Camera Restrica](https://philippschmitt.com/projects/camera-restricta), but how would that look like for curators, especially when the idea of a collaborative archive comes into play and everyone becomes a curator? 
 
 These are some of my thoughts and questions I have about future archives. Whether all these questions can be answered will show, but it is certainly exciting to deal with one or the other.
-
-
