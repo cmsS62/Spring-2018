@@ -39,6 +39,9 @@ Is a library based on Lucene that extends the project and offers a JavaScript in
 http://lucene.apache.org/solr/
 Solr is a library based on Lucene that extends the project and allows us to use its versatile HTTP and JSON APIs.
 
+Note: Those technologies will only be used for prototyping and give a very rough/incorrect tree of linked articles. Some kind of Event Nugget Detection (Event Nugget Detection and Argument Extraction with DISCERN, Greg Dubblin et al.) will be necessary to make 
+the project work in an automated manner.
+
 ### Frontend Libraries
 
 **React**
