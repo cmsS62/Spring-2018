@@ -3,6 +3,7 @@ layout: post
 published: false
 category: commentary
 title: Week 5 Assignment - Sam
+author: Seung Hun (Sam) Lee
 ---
 ## BAM Archive
 
