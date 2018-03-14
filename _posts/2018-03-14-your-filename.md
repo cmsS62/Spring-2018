@@ -2,7 +2,7 @@
 layout: post
 published: true
 category: commentary
-title: ''
+title: Week 5_ Junger Comments
 author: Ashley Junger
 ---
 ## Week 5_ Junger Comments
