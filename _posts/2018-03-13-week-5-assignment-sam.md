@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 5 Assignment - Sam
 author: Seung Hun (Sam) Lee
@@ -13,4 +13,4 @@ One aspect of the archive that is reasonable to pursue would be the historical a
 
 Although cathedral style archives like SULFA are not without their merits, they are somewhat they are not the best choices in keeping the community interested. Compared to bazaar style archive of Grandt's, SULFA has very few community interaction, therefore very small community interest, while Grandt's Facebook based archive is much more welcoming to various curated interactions, allowing more community interests. Although experts in maintaining catheral archives might be more knowledgeable, curators seem to allow much more community interest by encouraging their participation. 
 
-Overall, I feel that key to engaging audiences is to keep the archive feel alive. As in the reading, archives with lower barriers to entering were able to keep the community interaction going by allowing them to participate more easily. Some other archives were able to keep active through leadership of a few people. For small archives like the ones mentioned in the reading, they will capture the interest of the audiences for a little bit, before audience feels that they have seen enough. In order for the archive to retain the attention, the archive must feel alive, telling the visitors that there are still things that they have not seen. 
+Overall, I feel that key to engaging audiences is to keep the archive feel alive. As in the reading, archives with lower barriers to entering were able to keep the community interaction going by allowing them to participate more easily. Some other archives were able to keep active through leadership of a few people. For small archives like the ones mentioned in the reading, they will capture the interest of the audiences for a little bit, before audience feels that they have seen enough. In order for the archive to retain the attention, the archive must feel alive, telling the visitors that there are still things that they have not seen.
