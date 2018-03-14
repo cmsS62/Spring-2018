@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Much Ado and Alien Reading
 author: Margaret Flemings
@@ -16,5 +16,4 @@ Word trees aren't necessarily missing from Voyant because there is still the opp
 
 # Binder's Alien Reading
 
-Something I found interesting from Alien Reading was how natural language processing was firstly developed to be used in military and commercial contexts. Knowing that it makes sense that there is a focus on word frequency and separating by theme or topic. It was also interesting how language standardization and certain writing styles increase the generative model of the tool.  I started thinking about connecting phrases that appear to go together and I wondered how colors would be treated.  Many colors are associated with many things, including emotions, and sometimes not just one. If a machine were attempting to analyze poetry describing a person who was "positively green", would it be able to correctly pick envy verses nerves based on the other words used in the sentence? Would the "alien" assumptions of a machine clash with the human interpretation? As with AI, the answer is probably giving the tool more practice with different writing.  Colors are a simple example, but I also wonder how we can fix missing interpretations lost with non-standard language, or even culturally based idioms. 
-
+Something I found interesting from Alien Reading was how natural language processing was firstly developed to be used in military and commercial contexts. Knowing that it makes sense that there is a focus on word frequency and separating by theme or topic. It was also interesting how language standardization and certain writing styles increase the generative model of the tool.  I started thinking about connecting phrases that appear to go together and I wondered how colors would be treated.  Many colors are associated with many things, including emotions, and sometimes not just one. If a machine were attempting to analyze poetry describing a person who was "positively green", would it be able to correctly pick envy verses nerves based on the other words used in the sentence? Would the "alien" assumptions of a machine clash with the human interpretation? As with AI, the answer is probably giving the tool more practice with different writing.  Colors are a simple example, but I also wonder how we can fix missing interpretations lost with non-standard language, or even culturally based idioms.
