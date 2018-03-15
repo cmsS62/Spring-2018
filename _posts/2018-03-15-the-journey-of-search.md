@@ -93,3 +93,6 @@ We want to create a better experience to find and explore content within the arc
 - [Fuse.js - JavaScript fuzzy-search library](http://fusejs.io/)
 
 - [Selectize.js - tag management](https://selectize.github.io/selectize.js/)
+
+
+![SearchBar.gif]({{site.baseurl}}/assets/SearchBar.gif)
