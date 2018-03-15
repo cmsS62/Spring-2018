@@ -1,8 +1,9 @@
 ---
 layout: post
 published: false
-category: commentary
+category: updates
 title: The journey of search
+author: 'Julian, Paul'
 ---
 ![We need to generate new dimensions of finding and exploring]({{site.baseurl}}/assets/Artboard.png)
 
