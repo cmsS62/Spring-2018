@@ -12,7 +12,7 @@ tags:
 We want to create a better experience to find and explore content within the archive of the [Staatsbibliothek of Berlin](http://digital.staatsbibliothek-berlin.de/).
 
 
-## Problems
+### Problems
 
 - known filter and search systems examples have often just one hierarchical depth
 
@@ -39,13 +39,13 @@ We want to create a better experience to find and explore content within the arc
 - all in all less search and filter settings
 
 
-## Concept
+### Concept
 
 - automatically generated categories which getting sorted themself into multidimensional hierarchies
 
 - localization of content, categories and fields with the data complex (personalized)
 
-### Enclose:
+#### Enclose:
 
 - content gets analized multidimensional to visualize more perspectives and depth
 
@@ -57,7 +57,7 @@ We want to create a better experience to find and explore content within the arc
 
 - Examples for enclosing: Akinator, Chatbots,
 
-### Explore:
+#### Explore:
 
 - User is able to freely navigate through the contents which are connected by similarities of different nature
 
@@ -70,12 +70,12 @@ We want to create a better experience to find and explore content within the arc
 - Examples for exploring: Amazon, Pinterest, Instagram, Wikipedia, ...
 
 
-## Timetable
+### Timetable
 
 ![export_timetable-1EWfX2_Seite_1.jpg]({{site.baseurl}}/assets/export_timetable-1EWfX2_Seite_1.jpg)
 
  
-## Sources
+### Sources
 
 - [Das Dateisystem als Tagging-System](http://www.jbusse.de/traktate/pim_kiss(de).html)
 
@@ -88,7 +88,7 @@ We want to create a better experience to find and explore content within the arc
 - [Web-Search structure](https://image.slidesharecdn.com/talk-150419105636-conversion-gate02/95/efficient-query-processing-in-web-search-engines-4-638.jpg?cb=1429758870)
 
 
-## Libraries
+### Libraries
 
 - [Fuse.js - JavaScript fuzzy-search library](http://fusejs.io/)
 
