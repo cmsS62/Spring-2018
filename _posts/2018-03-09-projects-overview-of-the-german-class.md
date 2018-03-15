@@ -11,3 +11,4 @@ Teams:
 * [Joshua, Ludwig, Bela]({{site.baseurl}}/assets/first-project-overview/Contemporary-Newspaper-Archives_Joshua_Ludwig_Bela.pdf)
 * [Ioannis]({{site.baseurl}}/assets/first-project-overview/ioannis_sarakasidis_active_archives.pdf)
 * [Lucas, Dustin, Emil, Caspar]({{site.baseurl}}/assets/first-project-overview/lucas-dustin-emil-caspar-shakespeare-folgers-library-project-abstract.pdf)
+* [Julian, Paul]({{site.baseurl}}/updates/the-journey-of-search.html)
