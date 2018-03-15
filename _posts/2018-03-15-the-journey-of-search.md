@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: updates
 title: The journey of search
 author: 'Julian, Paul'
