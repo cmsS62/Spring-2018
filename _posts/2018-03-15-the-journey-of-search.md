@@ -7,7 +7,8 @@ author: 'Julian, Paul'
 tags:
   - Digital_Humanities
 ---
-![We need to generate new dimensions of finding and exploring]({{site.baseurl}}/assets/Artboard.png)
+![We need to generate new dimensions of finding and exploring]({{site.baseurl}}/assets/Artboard.jpg)
+
 
 We want to create a better experience to find and explore content within the archive of the [Staatsbibliothek of Berlin](http://digital.staatsbibliothek-berlin.de/).
 
