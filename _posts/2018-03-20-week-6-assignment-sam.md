@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Week 6 Assignment - Sam
 author: Seung Hun (Sam) Lee
