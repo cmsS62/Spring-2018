@@ -1,8 +1,11 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Schembri - week 7 reading commentary
+author: Frankie Schembri
+tags:
+  - Digital_Humanities
 ---
 ## Schembri - week 7 reading commentary
 
