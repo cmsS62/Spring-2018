@@ -16,13 +16,4 @@ I think the visual grammar of the authors' work in mapping their laboratories of
 
 I think the authors' use of the multi-constellation model that allows the data to be mapped as a network based on different variables or data - advising/publications/keywords, etc. - is an approach that could work well with the BAM data for visualizing the many ways in which members of the community are connected. There is a large geographic component to our data, so it makes sense to have some network visualization connected to a map of the U.S. or the world, but it would perhaps enrich the experience to not have all of our constellations bound by geography, and instead have some that can sort by other affinites - like activism, keywords, or area of practice.
 
-
-
-
-
-where relationships occur on multiple levels such as collaborations, co-authorship
-of academic papers, organizational structures, etc.
-Read the article and discuss the described concepts in light of a potential application to the biographical
-data and documents of BAM
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+I also thought that the structured way in which the authors sought feedback from nine of the community members was a great idea - as it allowed the researchers to collect some tailored, yet flexible responses to their visualization, which they could use to improve upon it and fix issues. I wonder if perhaps we should also apply some structure to our feedback/user input mechanism - maybe a survey of sorts or guided questions for adding comments? Sometimes structure can motivate feedback that is usable in refining the design. 
