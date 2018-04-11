@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Schembri - week 7 reading commentary
 author: Frankie Schembri
