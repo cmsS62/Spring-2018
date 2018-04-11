@@ -4,6 +4,8 @@ published: true
 category: commentary
 title: Junger Week 7
 author: Ashley Junger
+tags:
+  - Digital_Humanities
 ---
 ## Junger Week 7
 
