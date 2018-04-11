@@ -1,8 +1,9 @@
 ---
 layout: post
-published: false
+published: true
 category: commentary
 title: Assignmet 7- Seung Hun (Sam) Lee
+author: Seung Hun (Sam) Lee
 ---
 ## Affinity Maps
 
