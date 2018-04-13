@@ -30,6 +30,7 @@ We will have another presentation of the projects at MIT and look forward to dis
 The seven projects are:
 
 
+
 [Tim and Alex: Collection based sketching  suggestions](https://fhp.incom.org/action/open-file/285127)
 
 
