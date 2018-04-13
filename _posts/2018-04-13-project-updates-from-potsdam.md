@@ -28,6 +28,8 @@ There are two weeks left to work on the projects, before the group will travel t
 We will have another presentation of the projects at MIT and look forward to discussing them with you.
 
 The seven projects are:
+
+
 [Tim and Alex: Collection based sketching  suggestions](https://fhp.incom.org/action/open-file/285127)
 
 
