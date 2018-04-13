@@ -8,7 +8,7 @@ author: Katrin Glinka
 ## What we've been up to 
 Over the last few weeks we've been visiting GLAM-institutions in Berlin to learn about their specific challenges in making their large collections and archives accessible. 
 
-We started with a visit to the Berlinische Galerie, Museum of Modern Art with a thematic scope on German and international artists that - at some point during their career - worked in Berlin on the works they created while in Berlin https://www.berlinischegalerie.de/en/home/
+We started with a visit to the Berlinische Galerie, Museum of Modern Art with a thematic scope on German and international artists that - at some point during their career - worked in Berlin on the works they created while in Berlin [https://www.berlinischegalerie.de/en/home/](https://www.berlinischegalerie.de/en/home/).
 Here, we were guided through the depot and the archives by Ralf Burmeister, one of Europe's leading Dada Experts, and Philip Gorki, archivist with the museum. Emil, Dustin, Lucas and Caspar now work on a project that centers around the correspondence of the dadaist artist Raoul Hausman. 
 
 ![depot.JPG]({{site.baseurl}}/assets/depot.JPG)
