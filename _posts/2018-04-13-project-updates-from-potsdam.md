@@ -29,11 +29,17 @@ We will have another presentation of the projects at MIT and look forward to dis
 
 The seven projects are:
 [Tim and Alex: Collection based sketching  suggestions](https://fhp.incom.org/action/open-file/285127)
+
 [Sarah: Archiving Processes, not Products](https://fhp.incom.org/action/open-file/285165)
+
 [Emil, Dustin, Lucas  and Caspar: LETTERSTORI.ES Activating the correspondence of the  German dadaist Raoul Hausmann ](https://fhp.incom.org/action/open-file/285125)
+
 [Julian and Paul: Universe Gallery ](https://fhp.incom.org/action/open-file/285163)
+
 [Alexander, Donatus, Fabian & Patrick: Bauhaus Archive](https://fhp.incom.org/action/open-file/285167)
+
 [Ioannis: MoMa Exhibition History](https://www.dropbox.com/s/yadv6kr4cea8rje/ioannis_sarakasidis_moma_exhibiton_history.pdf?dl=0)
+
 Joshua, Ludwig, Bela, Florian: Blacks in American Medicine
 
 The groups will continue their work on the design and development in the following weeks. Please feel free to give feedback to their ideas and projects. 
