@@ -27,9 +27,7 @@ On Wednesday, our seven groups from Potsdam presented their projects.
 There are two weeks left to work on the projects, before the group will travel to the US. 
 We will have another presentation of the projects at MIT and look forward to discussing them with you.
 
-The seven projects are:
-
-
+The seven projects are:  
 
 
 
