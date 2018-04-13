@@ -20,7 +20,7 @@ The following week we visited the Berlin State Library and learned more about th
 
 Last week, we met at the beautifully located Theodor-Fontane Archive in Potsdam, where the head of the archive, Peer Trilcke, explained the function and role of a literary archive and discussed the potentials of digital presentations of archival material with our group. 
 
-![fontane archive potsdam.jpg]({{site.baseurl}}/assets/fontane archive potsdam.jpg)
+![]({{site.baseurl}}/assets/fontane%20archive%20potsdam.jpg)
 
 
 On Wednesday, our seven groups from Potsdam presented their projects. 
