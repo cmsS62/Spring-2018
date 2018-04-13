@@ -11,16 +11,16 @@ Over the last few weeks we've been visiting GLAM-institutions in Berlin to learn
 We started with a visit to the Berlinische Galerie, Museum of Modern Art with a thematic scope on German and international artists that - at some point during their career - worked in Berlin on the works they created while in Berlin https://www.berlinischegalerie.de/en/home/
 Here, we were guided through the depot and the archives by Ralf Burmeister, one of Europe's leading Dada Experts, and Philip Gorki, archivist with the museum. Emil, Dustin, Lucas and Caspar now work on a project that centers around the correspondence of the dadaist artist Raoul Hausman. 
 
-![archive.JPG]({{site.baseurl}}/assets/archive.JPG)
-![dada archive.JPG]({{site.baseurl}}/assets/dada archive.JPG)
 ![depot.JPG]({{site.baseurl}}/assets/depot.JPG)
+![dada archive.JPG]({{site.baseurl}}/assets/dada archive.JPG)
+![archive.JPG]({{site.baseurl}}/assets/archive.JPG)
 
 
 The following week we visited the Berlin State Library and learned more about the challenges concerning  digitisation, automated processes and text extraction by Clemens Neudecker from the research department and historian Christian Mathieu. They also presented a recent project they've been workin on (together with Marius Hug) on the digitisation of "movable books" (see also: [Movable Books As Animated Machines. Creating 3D-Models of Historical Children's Books  Hug, Marius](https://zenodo.org/record/833431#.WtCfyaLCeFw)). 
 
 Last week, we met at the beautifully located Theodor-Fontane Archive in Potsdam, where the head of the archive, Peer Trilcke, explained the function and role of a literary archive and discussed the potentials of digital presentations of archival material with our group. 
 
-![fontane archiv.JPG]({{site.baseurl}}/assets/fontane archiv.JPG)
+![fontane archive.JPG]({{site.baseurl}}/assets/fontane archive.JPG)
 
 On Wednesday, our seven groups from Potsdam presented their projects. 
 There are two weeks left to work on the projects, before the group will travel to the US. 
@@ -40,8 +40,3 @@ The groups will continue their work on the design and development in the followi
 During our visit at MIT we look forward to discussing the projects with you and give feedback before the groups head back to Germany to finalise their projects.
 
 Looking forward to hearing more about the process in your group at MIT!
-
-
-
-
-
