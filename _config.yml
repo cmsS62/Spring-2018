@@ -7,12 +7,12 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the collaborative site for CMS.S62/S98, a Digital
   Humanities course at MIT taught by Kurt Fendt. Students will
   use this space to keep track of course resources, example
-  projects, to post reading commentaries and design updates as 
-  their own design projects take shape. Students from the 
-  University of Applied Sciences in Potsdam, Germany (FHP) 
+  projects, to post reading commentaries and design updates as
+  their own design projects take shape. Students from the
+  University of Applied Sciences in Potsdam, Germany (FHP)
   will also contribute to this site.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cmss62.github.io" # the base hostname & protocol for your site
+url: "http://cmss62.github.io/Spring-2018" # the base hostname & protocol for your site
 twitter_username: MIThyperstudio
 github_username:  cmsS62
 permalink: none
@@ -22,8 +22,8 @@ markdown: kramdown
 
 prose:
   rooturl: '_posts'
-  siteurl: "http://cmss62.github.io/"
-  relativeLinks: 'http://cmss62.github.io/links.jsonp'
+  siteurl: "http://cmss62.github.io/Spring-2018"
+  relativeLinks: 'http://cmss62.github.io/Spring-2018/links.jsonp'
   media: 'assets'
   metadata:
     _posts:
@@ -82,7 +82,7 @@ prose:
             - name: "HCI Fundamentals"
               value: "HCI Fundamentals"
             - name: "Reading Writing Interfaces"
-              value: "Reading Writing Interfaces"  
+              value: "Reading Writing Interfaces"
       - name: "title"
         field:
           element: "text"
